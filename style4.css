@@ -82,8 +82,8 @@ nav a {
 }
 
 nav > ul > li > a:hover {
-    background-color: var(--cor3);
-    color: var(--cor5);
+    background-color: rgb(47, 47, 207);
+    color: white;
 }
 
 
